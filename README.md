@@ -1,6 +1,6 @@
 - Hi, I’m @Luzexxi
 - Please advise
-- Reach me email : donnypig@163.com 
+- Reach me email : fight_for_humanity@outlook.com or donnypig@163.com
 - Pronouns: he
 - an OIer in China
 - I'm interested in artificial intelligence
