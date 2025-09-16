@@ -4,7 +4,7 @@
 - Pronouns: he
 - an OIer in China
 - It is a great honor to discuss algorithm issues with you.
-- I am quite interested in HPC and AI (but I have hardly delved into them for now).
+- I am quite interested in HPC and AI (But I have hardly studied them in depth now, temporarily.).
   
 <!---
 Luzexxi/Luzexxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
